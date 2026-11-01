@@ -7,7 +7,7 @@
 "Minecraft"以及"我的世界"为美国微软公司的商标 开发者与微软公司没有任何隶属关系！
 
 #安全软件扫描
-![Uploading 屏幕截图 2026-11-01 153241.png…]()
+![安全软件扫描结果](https://github.com/MC-XYR/pcld/blob/master/2026-11-01%201.0.1.png)
 
 # 开源协议
 本项目采用 GNU General Public License v3.0 (GPL v3) 开源协议。详细信息请参阅 LICENSE 文件。
